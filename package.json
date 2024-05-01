@@ -1,0 +1,15 @@
+{
+    "name": "refresh-uuid",
+    "version": "0.0.2",
+    "description": "refresh-uuid",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "i18n:MAIN_MENU.package.title/refresh-uuid": {
+            "message": "refresh-uuid:refresh"
+        }
+    },
+    "dependencies": {
+        "node-uuid": "1.4.8"
+    }
+}
